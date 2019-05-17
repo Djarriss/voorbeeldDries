@@ -9,6 +9,8 @@
     	<Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Button Text="Klik hier" Margin="10" x:Name="ClickBTN" Clicked ="" />
+        <Image Source="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj0nujniqLiAhXCUlAKHVF9DT0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.bustle.com%2Fp%2Fheres-your-lucky-number-in-2019-based-on-your-zodiac-sign-15533996&psig=AOvVaw27ARu7UuxHP3d7xY4kT5Pg&ust=1558165988085411"y
     </StackLayout>
 
 </ContentPage>
